@@ -1,3 +1,0 @@
-/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/build/CMakeFiles/rebuild_cache.dir
-/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/build/CMakeFiles/edit_cache.dir
-/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/build/CMakeFiles/CXXPrimer.dir
