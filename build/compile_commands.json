@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/build",
+  "command": "/usr/bin/clang++  -I/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/CXXPrimer.dir/src/main.cpp.o -c /Users/zhaoxinyu/Documents/WorkSpace/c++/IO/src/main.cpp",
+  "file": "/Users/zhaoxinyu/Documents/WorkSpace/c++/IO/src/main.cpp"
+}
+]
