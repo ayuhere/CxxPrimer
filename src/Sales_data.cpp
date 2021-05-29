@@ -10,17 +10,17 @@ Sales_data::Sales_data(istream &is)
     read(is, *this);
 }
 
-double Sales_data::avg_price() const
-{
-    if (units_sold)
-    {
-        return revenue / units_sold;
-    }
-    else
-    {
-        return revenue;
-    }
-}
+// double Sales_data::avg_price() const
+// {
+//     if (units_sold)
+//     {
+//         return revenue / units_sold;
+//     }
+//     else
+//     {
+//         return revenue;
+//     }
+// }
 
 Sales_data &Sales_data::combine(const Sales_data &rhs)
 {
